@@ -17,6 +17,6 @@ Application  allow users to delete previously saved notes.
 
 ## Images
 
-![Home Page](home.jpg)
-![notes page](notes.jpg)
+![Home Page](./public/home.jpg)
+![notes page](./public/notes.jpg)
 
