@@ -1,6 +1,6 @@
 # Note Taker App
 
-https://migs-notetaking.herokuapp.com
+https://migs-notetaking.herokuapp.com <br/>
 https://github.com/MigsGithub/NoteTaker_APP_HW11
 
 ## Description
